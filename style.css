@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center;
+  /* background: url(http://i.imgur.com/b9r5sEL.jpg) bottom center; */
   background-size: cover;
 }
 body,html {
@@ -47,4 +47,9 @@ kbd {
   text-transform: uppercase;
   letter-spacing: .1rem;
   color: #ffc600;
+}
+
+#numberDisplay {
+  font-size: 60px;
+  text-align: center;
 }
